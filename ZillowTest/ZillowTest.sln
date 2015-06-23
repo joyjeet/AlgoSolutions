@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertStringToNumber", "ConvertStringToNumber\ConvertStringToNumber.csproj", "{BA9420B5-BE8D-48C8-9328-468E69F35B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertStringToNumberTest", "ConvertStringToNumberTest\ConvertStringToNumberTest.csproj", "{98F6E7D0-60D2-4E66-BA79-F0B196FFF70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinaryTree", "TrinaryTree\TrinaryTree.csproj", "{72F69D56-4B19-4732-9EA4-D61319CB0F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrinaryTreeTest", "TrinaryTreeTest\TrinaryTreeTest.csproj", "{48F19AAE-6E23-42E5-BA12-6925E61D77C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9420B5-BE8D-48C8-9328-468E69F35B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9420B5-BE8D-48C8-9328-468E69F35B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9420B5-BE8D-48C8-9328-468E69F35B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9420B5-BE8D-48C8-9328-468E69F35B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F6E7D0-60D2-4E66-BA79-F0B196FFF70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F6E7D0-60D2-4E66-BA79-F0B196FFF70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F6E7D0-60D2-4E66-BA79-F0B196FFF70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F6E7D0-60D2-4E66-BA79-F0B196FFF70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F69D56-4B19-4732-9EA4-D61319CB0F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F69D56-4B19-4732-9EA4-D61319CB0F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F69D56-4B19-4732-9EA4-D61319CB0F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F69D56-4B19-4732-9EA4-D61319CB0F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F19AAE-6E23-42E5-BA12-6925E61D77C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F19AAE-6E23-42E5-BA12-6925E61D77C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F19AAE-6E23-42E5-BA12-6925E61D77C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F19AAE-6E23-42E5-BA12-6925E61D77C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
